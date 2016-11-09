@@ -1,2 +1,2 @@
-#The Penny & Pear - A branding project
-###Created by Tyler Cox
+The Penny & Pear - A branding project
+Created by Tyler Cox
